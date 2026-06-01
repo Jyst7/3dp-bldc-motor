@@ -1,0 +1,19 @@
+#Research (1 hour)
+
+I remember having seen some people do projects similar to this in the past so I wanted to see what they did what went well and how I can improve on that.
+
+there were a few videos that just displayed the general idea of what to do rather than go very in depth to how it works and some of the principles behind how it works
+
+eg https://www.youtube.com/watch?v=OZarwftUh8w
+
+the best example i found had decent explanations for things that they did throughout their design process for their project and was quite helpful in my process of designing my own
+
+https://www.youtube.com/watch?v=TFQrXbMy84c&t=217s
+
+I also wanted to improve on the basic design of these motors so I wanted to attempt a halbach array in which i found a few good articles on how they work and different ways to use them such as in this
+
+https://www.stanfordmagnets.com/how-does-a-halbach-array-work.html
+
+I wanted to do that because it should add more torque to the motor which is benificial as by making many parts out of 3d printed material you lose a lot of torque in comparasin to an all metal build
+
+Another thing I decided was to use screws in the stator to improve the torque similarly to how the second video link i provided does but, since I used taller magnets I added more screws to make my coils fit the larger size
