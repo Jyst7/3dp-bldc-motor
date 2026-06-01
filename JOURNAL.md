@@ -1,4 +1,4 @@
-#Research (1 hour)
+##Research (2 hour)
 
 I remember having seen some people do projects similar to this in the past so I wanted to see what they did what went well and how I can improve on that.
 
