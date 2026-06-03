@@ -3,9 +3,14 @@
 I already had sizes picked out from some quick searches as all I needed to purchase was some magnets and some screws as I have bearings and 3d printing capabilities
 
 m2 screws: https://www.aliexpress.com/item/1005005618746295.html
-magnets: https://www.amazon.com/LOVIMAG-10x5x2mm-Magnets-Neodymium-Whiteboard/dp/B09Y5VNPPG?refinements=p_36%3A-2000%2Cp_n_g-1003335280111%3A23962441011&rnid=23962324011
+magnets: https://www.aliexpress.com/item/1005009930002478.html
+enamled copper wire: https://www.aliexpress.com/item/1005009478491704.html
 
-the screws were quite easy to find on aliexpress, but for the magnets I have found all the retailers that are selling the size that I am looking for have gotten multitudes of reviews saying sizing was not as advertized so I decided to go with amazon for this one.
+the screws were quite easy to find on aliexpress, but for the magnets it was difficult to find the exact size i wanted, but i was able to find that and the copper wire after a bit of time
+
+
+
+The pricing(rounded) should come to $4 for the screws(including shipping) and 
 
 ## Design (3 hours)
 
