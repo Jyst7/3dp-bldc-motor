@@ -14,17 +14,17 @@ The pricing(rounded) should come to $4 for the screws(including shipping) $5 for
 
 I broke the design of this down into two pie slices so that I could do a circular pattern later and make the cadding simpler. The first pie slice was for the stator that had holes for the three screws. then another for the outer section to hold magnets
 
-![stator pie](./stator%20pie.png)
-![rotor pie](./rotor%20pie.png))
+![stator pie](./imgs/stator%20pie.png)
+![rotor pie](./imgs/rotor%20pie.png))
 
 Aftere these sections were made I did a circular pattern and combined it into one part, moddeled anda dded bearings. I also extruded a base for the motor to rest on.
 
 Then I made a connector for a rotor and added it to the full assembly
 
-![rotor below](./rotor%20below.png)
-![full stator](./full%20stator.png)
+![rotor below](./imgs/rotor%20below.png)
+![full stator](./imgs/full%20stator.png)
 
-![full motor](./full%20motor.png)
+![full motor](./imgs/full%20motor.png)
 
 ## Research (2 hour)
 
