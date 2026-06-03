@@ -21,6 +21,11 @@ Aftere these sections were made I did a circular pattern and combined it into on
 
 Then I made a connector for a rotor and added it to the full assembly
 
+![rotor below](./rotor%20below.png)
+![full stator](./full%20stator.png)
+
+![full motor](./full%20motor.png)
+
 ## Research (2 hour)
 
 I remember having seen some people do projects similar to this in the past so I wanted to see what they did what went well and how I can improve on that.
