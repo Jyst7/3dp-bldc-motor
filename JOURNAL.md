@@ -8,9 +8,7 @@ enamled copper wire: https://www.aliexpress.com/item/1005009478491704.html
 
 the screws were quite easy to find on aliexpress, but for the magnets it was difficult to find the exact size i wanted, but i was able to find that and the copper wire after a bit of time
 
-
-
-The pricing(rounded) should come to $4 for the screws(including shipping) and 
+The pricing(rounded) should come to $4 for the screws(including shipping) $5 for the magnets, and $13 for the copper wire. with a total including tax(aliexpress the goat including it in price) $22 usd
 
 ## Design (3 hours)
 
