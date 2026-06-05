@@ -3,4 +3,4 @@ simple bldc motor using mainly 3d printed parts some magnets, screws and enamled
 
 The basic premis is to try and make a strong bldc motor in a small footprint cheaply with mostly 3d printed parts
 
-![full motor](./full%20motor.png)
+![full motor](./imgs/full%20motor.png)
